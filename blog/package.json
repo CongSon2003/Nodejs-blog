@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "facility",
+  "main": "heavy_Rain.js",
+  "scripts": {
+    "start": "nodemon ./heavy_Rain.js localhost 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CongSon2003/Nodejs-blog.git"
+  },
+  "keywords": [
+    "intruction"
+  ],
+  "author": "Pham Cong Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CongSon2003/Nodejs-blog/issues"
+  },
+  "homepage": "https://github.com/CongSon2003/Nodejs-blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
